@@ -4,17 +4,16 @@ layout: page
 permalink: /peter
 ---
 
-# Peter principle
+# About Me
 
-The Peter principle is a concept in management developed by Laurence J. Peter, which observes that people in a hierarchy tend to rise to their "level of incompetence". In other words, an employee is promoted based on their success in previous jobs until they reach a level at which they are no longer competent, as skills in one job do not necessarily translate to another. The concept was elucidated in the 1969 book The Peter Principle by Peter and Raymond Hull.
+I'm an ardent politics buff, disgruntled movie fanatic, frustrated lover of literature, die-hard quizzer, and the occasional teacher. Presently, I'm a PhD Research Fellow at Gauhati University. My areas of specialisation are Displacement Narratives, Exile Literature, and Diaspora. I am also working as a Guest Faculty in B. Borooah College, Guwahati.
 
-The Peter Principle was published by William Morrow and Company in 1969. Peter and Hull intended the book to be satire, but it became popular as it was seen to make a serious point about the shortcomings of how people are promoted within hierarchical organizations. Hull wrote the text, based on Peter's research.
 
-The Peter principle has been the subject of much later commentary and research.
+## Blog
 
-## What does it mean?
+Although I enjoy writing, at present I hardly get any time to do so. Burdened with research, academic assignments and work, the art within me is slowly fading. I am almost always in class- either taking one as a teacher or sitting in one as a student. Still at some rare occasions, whenever possible, I pen down my thoughts.
 
-The Peter principle states that a person who is competent at their job will earn promotion to a more senior position which requires different skills. If the promoted person lacks the skills required for their new role, then they will be incompetent at their new level, and so they will not be promoted again. But if they are competent at their new role, then they will be promoted again, and they will continue to be promoted until they eventually reach a level at which they are incompetent. Being incompetent, they do not qualify to be promoted again, and so remain stuck at that final level for the rest of their career (termed "Final Placement" or "Peter's Plateau"). This outcome is inevitable, given enough time and assuming that there are enough positions in the hierarchy to promote competent employees to. The "Peter Principle" is therefore expressed as: "In a hierarchy every employee tends to rise to his level of incompetence." This leads to Peter's Corollary: "In time, every post tends to be occupied by an employee who is incompetent to carry out its duties." Hull calls the study of how hierarchies work "hierarchiology."
+## A Year in Books
 
-## References
-[wikipedia.org/wiki/Peter_principle](https://wikipedia.org/wiki/Peter_principle)
+Everyone who has spent some time with me knows how important books are to me and what an impact they have had — and continue to have — on my life. 
+2018 was a great year for reading. I challenged myself to read at least 50 books. From cover to cover, I successfully finished reading 37 books (this list does not include books that I read as a part of my academic/work assignment). Continuing the same thread, I really look forward to read at least 50 books this year (that's roughly 4 books a month). One book series that I would like to finally finish reading is A Song of Ice and Fire. You can find the list of books (along with a swanky review) here. 
