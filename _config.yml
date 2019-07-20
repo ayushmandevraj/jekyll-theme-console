@@ -4,9 +4,10 @@ baseurl: "/jekyll-theme-console"
 url: "https://b2a3e8.github.io"
 
 header_pages:
-  - home.md
-  - about.md
-  - contact.md
+  - Home.md
+  - Blog Posts.md
+  - About.md
+  - Contact.md
 
 style: dark
 
