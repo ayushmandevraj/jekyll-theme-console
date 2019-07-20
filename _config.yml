@@ -1,4 +1,4 @@
-title: 'Ayushman Devraj's Homepage'
+title: 'Ayushman Devraj Homepage'
 description: "site description for seo"
 baseurl: "/jekyll-theme-console"
 url: "https://b2a3e8.github.io"
@@ -13,7 +13,7 @@ style: dark
 
 footer: 'follow me on <a href="https://twitter.com/ayushmandevraj">twitter</a>'
 
-#Build settings 
+# Build settings 
 markdown: kramdown
 
 remote_theme: b2a3e8/jekyll-theme-console
