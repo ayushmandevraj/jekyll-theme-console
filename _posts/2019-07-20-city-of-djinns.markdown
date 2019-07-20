@@ -1,12 +1,9 @@
 ---
 layout: post
-title:  "REVIEW: *City of Djinns: A Year in Delhi* by William Dalrymple"
+title:  "REVIEW: City of Djinns: A Year in Delhi by William Dalrymple"
 date:   2019-07-20 12:32:45 +0100
 categories: book review
 ---
-
-
-
 
 # REVIEW: City of Djinns: A Year in Delhi by William Dalrymple
 
