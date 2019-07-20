@@ -4,7 +4,7 @@ layout: home
 permalink: /
 ---
 
-# *WELCOME TO MY PERSONAL HOMEPAGE!
+# *WELCOME TO MY PERSONAL HOMEPAGE!*
 
 # About Me:
 I’m an ardent politics buff, disgruntled movie fanatic, frustrated lover of literature, die-hard quizzer, and the occasional teacher. Presently, I’m a PhD Research Fellow at Gauhati University. My areas of specialisation are Displacement Narratives, Exile Literature, and Diaspora. I am also working as a Guest Faculty in B. Borooah College, Guwahati.
@@ -14,7 +14,5 @@ Although I enjoy writing, at present I hardly get any time to do so. Burdened wi
 
 # Elsewhere
 
-[Facebook](www.facebook.com/ayushmandevraj)
-
-[Instagram](www.instagram.com/ayushmandevraj)
-
+<a href="https://facebook.com/ayushmandevraj">Facebook</a>
+<a href="https://instagram.com/ayushmandevraj">Instagram</a>
