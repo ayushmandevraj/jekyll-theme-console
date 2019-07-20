@@ -6,7 +6,7 @@ permalink: /About/
 
 # About Me
 
-![](http://placekitten.com/g/1200/800/)
+![](https://pbs.twimg.com/profile_images/1144851947477848064/fRYWiAXe_400x400.jpg)
 
 I'm an ardent politics buff, disgruntled movie fanatic, frustrated lover of literature, die-hard quizzer, and the occasional teacher. Presently, I'm a PhD Research Fellow at Gauhati University. My areas of specialisation are Displacement Narratives, Exile Literature, and Diaspora. I am also working as a Guest Faculty in B. Borooah College, Guwahati.
 
