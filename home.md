@@ -1,6 +1,5 @@
 ---
-title: /Blog posts
-layout: post
-permalink: https://ayushmandevraj.github.io/jekyll-theme-console/
+title: / Blog posts
+layout: home
+permalink: /
 ---
- 
