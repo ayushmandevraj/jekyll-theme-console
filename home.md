@@ -1,6 +1,6 @@
 ---
 title: /home
 layout: home
-permalink: /
+permalink: https://ayushmandevraj.github.io/jekyll-theme-console/
 ---
  
