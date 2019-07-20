@@ -1,7 +1,7 @@
 ---
-title: /peter
+title: /ayushman
 layout: page
-permalink: /peter
+permalink: /ayushman
 ---
 
 # About Me
