@@ -2,6 +2,7 @@ title: 'Ayushman Devraj Homepage'
 description: "site description for seo"
 baseurl: "/jekyll-theme-console"
 url: "https://b2a3e8.github.io"
+#google_analytics: UA-NNNNNNNN-N
 
 header_pages:
   - Home.md
@@ -9,7 +10,7 @@ header_pages:
   - About.md
   - Contact.md
 
-style: dark
+style: light
 
 footer: 'follow me on <a href="https://twitter.com/ayushmandevraj">twitter</a>'
 
