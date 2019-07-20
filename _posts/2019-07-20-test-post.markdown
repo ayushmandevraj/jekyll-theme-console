@@ -1,2 +1,12 @@
+---
+layout: post
+title:  "Test Post"
+date:   2019-07-20 12:32:45 +0100
+categories: blog
+---
+
+
+
+
 # Hi this is a test post to check if it works or not!!
 ## Thanks!
