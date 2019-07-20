@@ -1,7 +1,7 @@
 ---
-title: /ayushman
+title: /home
 layout: page
-permalink: /ayushman
+permalink: /home
 ---
 
 # About Me
